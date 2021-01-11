@@ -1,0 +1,41 @@
+.startImage{
+    width: 260px;
+    height: 300px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.startImage .clownSprite{
+    margin: 0px;
+}
+
+.text{
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.button1{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    outline:none;
+    border-radius: 5px;
+}
+
+canvas {
+    width: 500;
+    height: 500;
+    border: 1px solid black;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

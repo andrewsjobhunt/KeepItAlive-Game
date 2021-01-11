@@ -14,5 +14,5 @@ Sprite animation to be included.
 8. x and y coordinates of two object types - player clown and deadly objects
 
 Game is up on https://andrewlalala119278.web.app - hosted with Firebase.
-Not complete (movement still to be fixed) but for the most part, I want to move on to the next project.
-This game did not use object oriented programming until the end for the score tracker.
+
+Desktop only.
